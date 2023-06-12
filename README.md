@@ -1,4 +1,4 @@
 # node-y-express-desafio-2
 Integrantes:
-- Edson Salinas
+- Edson Salas
 - Camilo Aliaga
